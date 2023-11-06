@@ -9,5 +9,5 @@
 ### Topics covered in the second midterm
 - Naive Bayes ML Model (NB) (laboratory exercise No.4)
 - Random Trees & Random Forest Models (laboratory exercise No.5)
-- Multi-Layered Perceptron (MVP) (laboratory exercise No.6)
+- Multi-Layered Perceptron (MLP) (laboratory exercise No.6)
 
